@@ -52,43 +52,48 @@
   "portfolio": [
     {
       "name": "Criaçao de Pokedex*",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/caiorochadev/Pokedex-APP",
       "github": true
     },
     {
       "name": "Criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    },
-    {
-      "name": "Comparador de pokemons (PokeAPI)",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/caiorochadev/perfil-Pessoal",
       "github": true
     },
     {
       "name": "Website Igreja CCVideira Recife",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/caiorochadev/IgrejaCCvideira",
       "github": true
     },
-    {
-      "name": "Validador de CPF",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    },
+  {
+    "name": "Game-Resgate",
+    "url": "https://github.com/caiorochadev/Game-Resgate",
+    "github": true
+  },
     {
       "name": "Bootcamp Take Blip Web Developer - DIO ",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/caiorochadev/Bootcamp-Take-Blip-Web",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://github.com/caiorochadev/Calculadora",
+      "github": true
+    },
+    {
+      "name": "Clone da Netflix",
+      "url": "https://github.com/caiorochadev/Clone-netflix",
       "github": true
     },
     {
       "name": "Formulario de agendamento (API googlesheets)",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/caiorochadev/Formulario-de-agendamento-Forca-aerea",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Desenvolvedor Freelancer",
+      "name": "Desenvolvedor Freelancer Web e Android",
       "period": "Fev 2023 - Atualmente",
       "competence": "Elaborando projetos voluntários e projetos pessoais"
     },
